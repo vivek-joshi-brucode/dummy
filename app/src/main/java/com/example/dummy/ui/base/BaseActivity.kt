@@ -3,8 +3,6 @@ package com.example.dummy.ui.base
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.navigation.findNavController
-import androidx.navigation.fragment.findNavController
 import androidx.viewbinding.ViewBinding
 
 abstract class BaseActivity<VB : ViewBinding> : AppCompatActivity() {

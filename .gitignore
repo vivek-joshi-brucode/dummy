@@ -37,3 +37,4 @@ google-services.json
 baseline-prof.txt
 gradlew.bat
 gradlew
+/gradle/wrapper/gradle-wrapper.jar
