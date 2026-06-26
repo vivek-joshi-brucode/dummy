@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dummy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="regenerate">Regenerate image</string>
+    <string name="product_name">Product Name</string>
+    <string name="detail_1_value">Detail 1: Value</string>
+    <string name="detail_2_value">Detail 2: Value</string>
+    <string name="device_data_list">Device Data list</string>
+    <string name="face_detection">Face Detection</string>
+    <string name="home">Home</string>
+    <string name="nav_open">Nav Open</string>
+    <string name="nav_close">Nav close</string>
+    <string name="devices">Devices</string>
+    <string name="dogs">Dogs</string>
+    <string name="alert">Alert</string>
+
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="forth">Forth</string>
+</resources>

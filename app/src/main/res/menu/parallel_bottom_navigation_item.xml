@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/first_bottom_nav_menu"
+        android:title="@string/first"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/second_bottom_nav_menu"
+        android:title="@string/second"
+        android:icon="@drawable/ic_alert"
+        />
+    <item
+        android:id="@+id/third_bottom_nav_menu"
+        android:title="@string/third"
+        android:icon="@drawable/ic_profile"
+        />
+    <item
+        android:id="@+id/forth_bottom_nav_menu"
+        android:title="@string/forth"
+        android:icon="@drawable/ic_refresh"
+        />
+
+</menu>

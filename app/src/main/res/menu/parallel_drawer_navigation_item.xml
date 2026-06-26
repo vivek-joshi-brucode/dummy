@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/first_nav_menu"
+        android:title="@string/first"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/second_nav_menu"
+        android:title="@string/second"
+        android:icon="@drawable/ic_alert"
+        />
+    <item
+        android:id="@+id/third_nav_menu"
+        android:title="@string/third"
+        android:icon="@drawable/ic_profile"
+        />
+    <item
+        android:id="@+id/forth_nav_menu"
+        android:title="@string/forth"
+        android:icon="@drawable/ic_refresh"
+        />
+    <item
+        android:id="@+id/fifth_nav_menu"
+        android:title="Fifth"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/sixth_nav_menu"
+        android:title="Sixth"
+        android:icon="@drawable/ic_alert"
+        />
+    <item
+        android:id="@+id/seventh_nav_menu"
+        android:title="Seventh"
+        android:icon="@drawable/ic_profile"
+        />
+    <item
+        android:id="@+id/eighth_nav_menu"
+        android:title="Eighth"
+        android:icon="@drawable/ic_refresh"
+        />
+
+</menu>

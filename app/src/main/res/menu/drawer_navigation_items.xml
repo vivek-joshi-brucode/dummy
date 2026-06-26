@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_nav_menu"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/face_detect_nav_menu"
+        android:title="@string/face_detection" />
+    <item
+        android:id="@+id/devices_nav_menu"
+        android:title="@string/devices"
+        />
+    <item
+        android:id="@+id/dogs_nav_menu"
+        android:title="@string/dogs"
+        />
+
+
+</menu>

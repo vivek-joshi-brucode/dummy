@@ -32,3 +32,8 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Unwanted Files
+baseline-prof.txt
+gradlew.bat
+gradlew
